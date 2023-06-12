@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MesEnabled</key>
+	<false/>
+	<key>slot1</key>
+	<dict>
+		<key>failQty</key>
+		<integer>0</integer>
+		<key>passQty</key>
+		<integer>3</integer>
+	</dict>
+	<key>slot2</key>
+	<dict>
+		<key>failQty</key>
+		<integer>0</integer>
+		<key>passQty</key>
+		<integer>0</integer>
+	</dict>
+	<key>slot3</key>
+	<dict>
+		<key>failQty</key>
+		<integer>0</integer>
+		<key>passQty</key>
+		<integer>0</integer>
+	</dict>
+	<key>slot4</key>
+	<dict>
+		<key>failQty</key>
+		<integer>0</integer>
+		<key>passQty</key>
+		<integer>0</integer>
+	</dict>
+</dict>
+</plist>
